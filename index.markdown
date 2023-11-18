@@ -4,4 +4,4 @@
 
 layout: home
 ---
-12312
+This is where I keep track of thoughts and projects
