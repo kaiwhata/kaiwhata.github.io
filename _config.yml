@@ -28,7 +28,7 @@ twitter_username: kaiwhata
 github_username:  kaiwhata
 
 # Build settings
-theme: slate
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 #theme: jekyll-theme-slate
