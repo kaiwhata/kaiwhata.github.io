@@ -14,7 +14,8 @@ I've become a bit of a cybersecurity generalist. I'm fortunate to have had the o
 * Running cybersecurity awareness training sessions that don't suck (and the odd keynote here and there)
 * In-person, social engineering attacks
 * All your standard offensive penetration testing security services (internals, externals, webapp testing, API testing) 
-* 
+* Kuberenetes penetration tests and security reviews (no - this site isn't hosted on kube - why would you even do that)
+* Cloud security reviews and penetration tests (my expertiese is mostly in Azure, but I know enough to break things in AWS and GCP too)
 
 I'd honestly really like to get my hands on a proper CVE - and have come close a couple of times - but have never quite managed to get a vendor to apply for a CVE as a consequence of my responsible disclosures ... yet. And I can be a little bit obsessive about reporting at times and have been known to automate reporting in word and latex. 
 
