@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Kaiwhata Homepage
+title: Kaiwhata
 #email: your-email@example.com
-description: Elf's Homepage # this means to ignore newlines until "baseurl:"
+description: Elf's Blog # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 domain: kaiwhata.com
 url: "https://kaiwhata.com" # the base hostname & protocol for your site, e.g. http://example.com
