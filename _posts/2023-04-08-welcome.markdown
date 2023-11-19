@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Cloud carbon footprints"
-date:   2023-11-19 12:20:08 +1200
-categories: jekyll update
----
-
-Write somethig about silverlining
-Using this as a placeholder until I sort something permenant.
