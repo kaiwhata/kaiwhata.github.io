@@ -9,7 +9,7 @@ This is my about page. There are many like it, but this one is mine.
 # Security
 
 I've become a bit of a cybersecurity generalist. I'm fortunate to have had the opportunity to try my hand at delivering a bunch of security services - including:
-* Writing, delivering and continually iterating on cybersecurity coures for [ITP](https://itp.nz/) on the [NZISM](https://itp.nz/events/online/2168-NZISM_Fundamentals), [Cybersecurity Essentials](https://itp.nz/courses/ondemand/152-Cybersecurity_Essentials) and [Incident Response](https://portal.itp.nz/courses/ondemand/150-Cybersecurity_Incident_Response).
+* Writing, delivering and continually iterating on cybersecurity courses for [ITP](https://itp.nz/) on the [NZISM](https://itp.nz/events/online/2168-NZISM_Fundamentals), [Cybersecurity Essentials](https://itp.nz/courses/ondemand/152-Cybersecurity_Essentials) and [Incident Response](https://portal.itp.nz/courses/ondemand/150-Cybersecurity_Incident_Response).
 * Creating and delivering customised tabletop exercises for public and private sector clients
 * Running cybersecurity awareness training sessions that don't suck (and the odd keynote here and there)
 * In-person, social engineering attacks
