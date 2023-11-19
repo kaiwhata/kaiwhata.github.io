@@ -28,12 +28,12 @@ twitter_username: kaiwhata
 github_username:  kaiwhata
 
 # Build settings
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-#theme: minima
+#remote_theme: pages-themes/slate@v0.2.0
 #plugins:
-#  - jekyll-feed
+#- jekyll-remote-theme # add this line to the plugins list if you already have on#
+theme: minima
+plugins:
+  - jekyll-feed
 #  - jekyll-remote-theme
 
 # Exclude from processing.
@@ -44,12 +44,12 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+ exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
+   - Gemfile
+   - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
