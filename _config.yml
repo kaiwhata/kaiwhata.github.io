@@ -1,6 +1,6 @@
-title: Kaiwhata
+title: kaiwhata.com
 #email: your-email@example.com
-description: Elf's Blog # this means to ignore newlines until "baseurl:"
+description: "Elf: Cybersecurity + Sustainability"  # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 domain: kaiwhata.com
 url: "https://kaiwhata.com" # the base hostname & protocol for your site, e.g. http://example.com
