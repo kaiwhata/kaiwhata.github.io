@@ -15,7 +15,7 @@ The certs/coruse below are a mix of a bunch of stuff, cause I'm trying to achiev
 Here's the full list of certs/training that I have attempted or am attempting, their prices (as of time of writing in Jan 2025), and some comments about their quality and cost effectiveness. Note that I'm pretty heavily weighting cost here, as I'm self funding a lot of these so I just can't afford Offsec prices, and I'm comparing only prices for certifications that include training content. You might also note that there's no INE/eLearnSecurity on here - generally the INE certs are USD$400 for just the exam witout training material which is an additional USD$749 per year - I tried one of their Red Team courses in 2023, and the content was out of date and none of the labs worked - so, given my price sensitivity, it doesn't look like I'll be going back to those anytime soon (plus their eMAPT seems to be one of their few certs that's well known). 
 
 | Certification | Provider | Cost | My Progress | Difficulty | Elf Recommends? | Comments |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | Offensive Security Certified Professional (OSCP/PEN-200) | OffSec | USD$1,749 | Certification Obtained (2022) | Medium | | I did this because I had to. Failed twice before passing. |
 | Azure Fundamentals (AZ-900) | Microsoft | USD$99 | Certification Obtained (2023)| Easy | :+1: | Quick and easy cert to show you have basic Azure knowledge |
 | Azure Security Engineer Associate (AZ-500) | Microsoft | USD$165 | Certification Obtained (2023) | Medium | | Of all my certs, this one actually got me a job. |
