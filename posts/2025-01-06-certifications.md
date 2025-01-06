@@ -8,26 +8,26 @@ After jumping over from penetration testing to cloud blue team work in 2024, I w
 ## Purpose
 The certs/coruse below are a mix of a bunch of stuff, cause I'm trying to achieve multiple different things with them:
 1. Certs to get your foot in the door for an interview (The Microsoft and Offsec certs seem decent at this)
-2. Certs/Courses that improve or refresh your knowledge and mastery of a topic (Burp, PWPP) :+1:!
+2. Certs/Courses that improve or refresh your knowledge and mastery of a topic (Burp, PWPP)
 3. Certs/Courses that help you position my 'niche' in the market (AZ-500, CARTP, CARTE)
 4. Certs/Courses that help build knowledge breadth, which improves maturity in risk assessments (PIPA, PMPA, AZ-500)
 
 Here's the full list of certs/training that I have attempted or am attempting, their prices (as of time of writing in Jan 2025), and some comments about their quality and cost effectiveness. Note that I'm pretty heavily weighting cost here, as I'm self funding a lot of these so I just can't afford Offsec prices, and I'm comparing only prices for certifications that include training content. You might also note that there's no INE/eLearnSecurity on here - generally the INE certs are USD$400 for just the exam witout training material which is an additional USD$749 per year - I tried one of their Red Team courses in 2023, and the content was out of date and none of the labs worked - so, given my price sensitivity, it doesn't look like I'll be going back to those anytime soon (plus their eMAPT seems to be one of their few certs that's well known). 
 
-| Certification | Provider | Cost | My Progress | Difficulty | Comments |
+| Certification | Provider | Cost | My Progress | Difficulty | Elf Recommends? | Comments |
 | --- | --- | --- | --- | --- | --- |
-| Offensive Security Certified Professional (OSCP/PEN-200) | OffSec | USD$1,749 | Certification Obtained (2022) | Medium | I did this because I had to. Failed twice before passing. |
-| Azure Fundamentals (AZ-900) | Microsoft | USD$99 | Certification Obtained (2023)| Easy | Quick and easy cert to show you have basic Azure knowledge |
-| Azure Security Engineer Associate (AZ-500) | Microsoft | USD$165 | Certification Obtained (2023) | Medium | Of all my certs, this one actually got me a job. |
-| Certified Web Application Security Professional (CAWASP) | Altered Security | USD$299 | Certification Obtained (2024) | Easy | Skip this, do CARTP instead |
-| Burp Suite Certified Practitioner | PortSwigger | USD$99 | In Progress | Hard | Im treating this as a cheaper OSWE, with (probably) better content |
-| Cybersecurity Architect Expert (SC-100) | Microsoft | USD$165 | Certification Obtained (2024) | Medium | Rote learning of Microsoft documentation. |
-| Certified Azure Red Team Professional (CARTP) | Altered Security | USD$449 | Certification Obtained (2024) | Easy | Solid intro to Azure security. Taught me more than AZ-500 and SC-100 combined. |
-| Practical Mobile Pentest Associate (PMPA) | TCM Security | USD$249 | Certification Obtained (2024) | Easy | The best, cheap mobile cert I could find. Course definintely needs an update. |
-| Github Advanced Security (GHAS) | Github | USD$99 | Certification Obtained (2024) | Easy | Rote learning of Microsoft documentation. I wouldnt have sat this if I didnt already have to learn teh material for work. |
-| Beginners Guide to IoT and Hardware Hacking (PIPA) | TCM Security | USD$249 | Course Complete, Will not sit Cert | Easy | Pretty much a perfect course :) |
-| Practical Web Pentest Professional (PWPP) | TCM Security | USD$499 | In Progress, Will not sit Cert | Medium | I'd consider doing this cert as a stepping stone to the Burp Certification, as they share content but Burp goes WAY deeper. TCMs exams seem decent, so there's a solid chance of passing on your first or second attempt. |
-| Certified Azure Red Team Expert (CARTE) | Altered Security | USD$499 | Planned - Not Started | | I'm really itching to do this, but no-one in NZ cares about teh different between Professional or Expert in Azure. So other than personal interest, there's little incentive for me to prioritise this. |
+| Offensive Security Certified Professional (OSCP/PEN-200) | OffSec | USD$1,749 | Certification Obtained (2022) | Medium | | I did this because I had to. Failed twice before passing. |
+| Azure Fundamentals (AZ-900) | Microsoft | USD$99 | Certification Obtained (2023)| Easy | :+1: | Quick and easy cert to show you have basic Azure knowledge |
+| Azure Security Engineer Associate (AZ-500) | Microsoft | USD$165 | Certification Obtained (2023) | Medium | | Of all my certs, this one actually got me a job. |
+| Certified Web Application Security Professional (CAWASP) | Altered Security | USD$299 | Certification Obtained (2024) | Easy | | Skip this, do CARTP instead |
+| Burp Suite Certified Practitioner | PortSwigger | USD$99 | In Progress | Hard | :+1::+1: | Im treating this as a cheaper OSWE, with (probably) better content |
+| Cybersecurity Architect Expert (SC-100) | Microsoft | USD$165 | Certification Obtained (2024) | Medium | | Rote learning of Microsoft documentation. |
+| Certified Azure Red Team Professional (CARTP) | Altered Security | USD$449 | Certification Obtained (2024) | Easy | :+1::+1: | Solid intro to Azure security. Taught me more than AZ-500 and SC-100 combined. |
+| Practical Mobile Pentest Associate (PMPA) | TCM Security | USD$249 | Certification Obtained (2024) | Easy | | The best, cheap mobile cert I could find. Course definintely needs an update. |
+| Github Advanced Security (GHAS) | Github | USD$99 | Certification Obtained (2024) | Easy | | Rote learning of Microsoft documentation. I wouldnt have sat this if I didnt already have to learn teh material for work. |
+| Beginners Guide to IoT and Hardware Hacking (PIPA) | TCM Security | USD$249 | Course Complete, Will not sit Cert | Easy | :+1::+1::+1: | Pretty much a perfect course :) |
+| Practical Web Pentest Professional (PWPP) | TCM Security | USD$499 | In Progress, Will not sit Cert | Medium | :+1: | I'd consider doing this cert as a stepping stone to the Burp Certification, as they share content but Burp goes WAY deeper. TCMs exams seem decent, so there's a solid chance of passing on your first or second attempt. |
+| Certified Azure Red Team Expert (CARTE) | Altered Security | USD$499 | Planned - Not Started | | | I'm really itching to do this, but no-one in NZ cares about teh different between Professional or Expert in Azure. So other than personal interest, there's little incentive for me to prioritise this. |
 
 It's also worth noting that you can acess all the PortSwigger content for free, and you can access all the TCM content for USD$30/month.
 If money wasn't a problem (or if someone else was footing the bill) then I'd personally do the following (in order):
