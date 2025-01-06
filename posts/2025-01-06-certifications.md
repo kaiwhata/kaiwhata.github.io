@@ -23,7 +23,7 @@ Here's the full list of certs/training that I have attempted or am attempting, t
 | Certified Azure Red Team Expert (CARTE) | Altered Security | USD$499 | Planned - Not Started | | |
 
 It's also worth noting that you can acess all the PortSwigger content for free, and you can access all the TCM content for USD$30/month.
-If money wasn't a problem - then I'd ideally go for either OSWE or OSEP (but they're both USD$1,749 each - so that's not happening).
+If money wasn't a problem - then I'd ideally go for either OSWE and OSEP for that sweet OSCE3 (but they're both USD$1,749 each - so that's not happening).
 
 ### Best Overall Courses
  1. Beginners Guide to IoT and Hardware Hacking (PIPA) - TCM Security
