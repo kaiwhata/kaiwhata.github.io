@@ -20,7 +20,7 @@ Here's the full list of certs/training that I have attempted or am attempting, t
 | Github Advanced Security (GHAS) | Github | USD$99 | Certification Obtained (2024) | Easy | Rote learning of Microsoft documentation. |
 | Beginners Guide to IoT and Hardware Hacking (PIPA) | TCM Security | USD$249 | Course Complete, Will not sit Cert | Easy | Pretty much a perfect course :) |
 | Practical Web Pentest Professional (PWPP) | TCM Security | USD$499 | In Progress, Will not sit Cert | Medium | I'd consider doing this cert as a stepping stone to the Burp Certification, as they share content but Burp goes WAY deeper. TCMs exams seem decent, so there's a solid chance of passing on your first or second attempt. |
-| Certified Azure Red Team Expert (CARTE) | Altered Security | USD$499 | Planned - Not Started | | |
+| Certified Azure Red Team Expert (CARTE) | Altered Security | USD$499 | Planned - Not Started | | I'm really itching to do this, but no-one in NZ cares about teh different between Professional or Expert in Azure. So other than personal interest, there's little incentive for me to prioritise this. |
 
 It's also worth noting that you can acess all the PortSwigger content for free, and you can access all the TCM content for USD$30/month.
 If money wasn't a problem - then I'd ideally go for either OSWE and OSEP for that sweet OSCE3 (but they're both USD$1,749 each - so that's not happening).
