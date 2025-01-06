@@ -20,7 +20,7 @@ I've become a bit of a cybersecurity generalist. I'm fortunate to have had the o
 * Kubernetes penetration tests and security reviews (no - this site isn't hosted on kube - why would you even do that)
 * Cloud security reviews and penetration tests (my expertiese is mostly in Azure, but I know enough to break things in AWS and GCP too)
 
-I'd honestly really like to get my hands on a proper CVE - and have come close a couple of times - but have never quite managed to get a vendor to apply for a CVE as a consequence of my responsible disclosures ... yet. 
+I'd honestly really like to get my hands on a proper CVE - and now I have [one](https://happy-little-accidents.pages.dev/posts/CVE-2024-30931/)! 
 
 I can be a little bit obsessive about reporting at times and have been known to automate reporting in word and latex. 
 
@@ -29,7 +29,11 @@ I've recently been involved with measuring carbon emissions as part of a Toitu c
 
 ## Certs
 * OSCP (2022)
-* AZ-500 and AZ-900 (2023)
+* AZ-500 and AZ-900 - Azure Security Engineer Associate (2023)
+* SC-100 - Cybersecurity Architect Expert (2024)
+* CAWASP and CARTP - Certified Azure Web Application Security and Red Team Professional (2024)
+* GHAS - Github Advancd Security (2024)
+* PMPA - Practical Mobile Pentest Associate (2024)
 
 ## Personal
 
