@@ -8,7 +8,7 @@ After jumping over from penetration testing to cloud blue team work in 2024, I w
 ## Purpose
 The certs/coruse below are a mix of a bunch of stuff, cause I'm trying to achieve multiple different things with them:
 1. Certs to get your foot in the door for an interview (The Microsoft and Offsec certs seem decent at this)
-2. Certs/Courses that improve or refresh your knowledge and mastery of a topic (Burp, PWPP)
+2. Certs/Courses that improve or refresh your knowledge and mastery of a topic (Burp, PWPP) :+1:!
 3. Certs/Courses that help you position my 'niche' in the market (AZ-500, CARTP, CARTE)
 4. Certs/Courses that help build knowledge breadth, which improves maturity in risk assessments (PIPA, PMPA, AZ-500)
 
