@@ -12,7 +12,7 @@ The certs/coruse below are a mix of a bunch of stuff, cause I'm trying to achiev
 3. Certs/Courses that help you position my 'niche' in the market (AZ-500, CARTP, CARTE)
 4. Certs/Courses that help build knowledge breadth, which improves maturity in risk assessments (PIPA, PMPA, AZ-500)
 
-Here's the full list of certs/training that I have attempted or am attempting, their prices (as of time of writing in Jan 2025), and some comments about their quality and cost effectiveness. Note that I'm pretty heavily weighting cost here, as I'm self funding a lot of these so I just can't afford Offsec prices, and I'm comparing only prices for certifications that include training content.
+Here's the full list of certs/training that I have attempted or am attempting, their prices (as of time of writing in Jan 2025), and some comments about their quality and cost effectiveness. Note that I'm pretty heavily weighting cost here, as I'm self funding a lot of these so I just can't afford Offsec prices, and I'm comparing only prices for certifications that include training content. You might also note that there's no INE/eLearnSecurity on here - generally the INE certs are USD$400 for just the exam witout training material which is an additional USD$749 per year - I tried one of their Red Team courses in 2023, and the content was out of date and none of the labs worked - so, given my price sensitivity, it doesn't look like I'll be going back to those anytime soon (plus their eMAPT seems to be one of their few certs that's well known). 
 
 | Certification | Provider | Cost | My Progress | Difficulty | Comments |
 | --- | --- | --- | --- | --- | --- |
@@ -23,8 +23,8 @@ Here's the full list of certs/training that I have attempted or am attempting, t
 | Burp Suite Certified Practitioner | PortSwigger | USD$99 | In Progress | Hard | Im treating this as a cheaper OSWE, with (probably) better content |
 | Cybersecurity Architect Expert (SC-100) | Microsoft | USD$165 | Certification Obtained (2024) | Medium | Rote learning of Microsoft documentation. |
 | Certified Azure Red Team Professional (CARTP) | Altered Security | USD$449 | Certification Obtained (2024) | Easy | Solid intro to Azure security. Taught me more than AZ-500 and SC-100 combined. |
-| Practical Mobile Pentest Associate (PMPA) | TCM Security | USD$249 | Certification Obtained (2024) | Easy | The best, cheap mobile cert I could find. Course definintely needs and update. |
-| Github Advanced Security (GHAS) | Github | USD$99 | Certification Obtained (2024) | Easy | Rote learning of Microsoft documentation. |
+| Practical Mobile Pentest Associate (PMPA) | TCM Security | USD$249 | Certification Obtained (2024) | Easy | The best, cheap mobile cert I could find. Course definintely needs an update. |
+| Github Advanced Security (GHAS) | Github | USD$99 | Certification Obtained (2024) | Easy | Rote learning of Microsoft documentation. I wouldnt have sat this if I didnt already have to learn teh material for work. |
 | Beginners Guide to IoT and Hardware Hacking (PIPA) | TCM Security | USD$249 | Course Complete, Will not sit Cert | Easy | Pretty much a perfect course :) |
 | Practical Web Pentest Professional (PWPP) | TCM Security | USD$499 | In Progress, Will not sit Cert | Medium | I'd consider doing this cert as a stepping stone to the Burp Certification, as they share content but Burp goes WAY deeper. TCMs exams seem decent, so there's a solid chance of passing on your first or second attempt. |
 | Certified Azure Red Team Expert (CARTE) | Altered Security | USD$499 | Planned - Not Started | | I'm really itching to do this, but no-one in NZ cares about teh different between Professional or Expert in Azure. So other than personal interest, there's little incentive for me to prioritise this. |
