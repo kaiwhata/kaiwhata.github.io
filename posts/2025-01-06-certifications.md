@@ -23,7 +23,14 @@ Here's the full list of certs/training that I have attempted or am attempting, t
 | Certified Azure Red Team Expert (CARTE) | Altered Security | USD$499 | Planned - Not Started | | I'm really itching to do this, but no-one in NZ cares about teh different between Professional or Expert in Azure. So other than personal interest, there's little incentive for me to prioritise this. |
 
 It's also worth noting that you can acess all the PortSwigger content for free, and you can access all the TCM content for USD$30/month.
-If money wasn't a problem - then I'd ideally go for either OSWE and OSEP for that sweet OSCE3 (but they're both USD$1,749 each - so that's not happening).
+If money wasn't a problem (or if someone else was footing the bill) then I'd personally do the following (in order):
+1. Beginners Guide to IoT and Hardware Hacking (PIPA) - the course was that good
+2. Certified Azure Red Team Expert (CARTE) - I'm just super interested to do this course given how good CARTP was
+3. Practical Web Pentest Professional (PWPP) - prep for Burp
+4. Burp Suite Certified Practitioner - prep for OSWE
+5. OSWE & then OSEP - Offsec certs are still more recognised than others
+ 
+The OSWE and OSEP are only on this list for that sweet OSCE3 (but they're both USD$1,749 each - so that's not happening) - and I dont think anyone in the NZ market cares except for top tier red-teamers (which is never goping to be me anyway).
 
 ### Best Overall Courses
  1. Beginners Guide to IoT and Hardware Hacking (PIPA) - TCM Security
