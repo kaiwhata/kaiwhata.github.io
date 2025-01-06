@@ -16,7 +16,7 @@ Here's the full list of certs/training that I have attempted or am attempting, t
 | Burp Suite Certified Practitioner | PortSwigger | USD$99 | In Progress | Hard | Im treating this as a cheaper OSWE, with (probably) better content |
 | Cybersecurity Architect Expert (SC-100) | Microsoft | USD$165 | Certification Obtained (2024) | Medium | Rote learning of Microsoft documentation. |
 | Certified Azure Red Team Professional (CARTP) | Altered Security | USD$449 | Certification Obtained (2024) | Easy | Solid intro to Azure security. Taught me more than AZ-500 and SC-100 combined. |
-| Practical Mobile Pentest Associate (PMPA) | TCM Security | USD$245 | Certification Obtained (2024) | Easy | The best, cheap mobile cert I could find. Course definintely needs and update. |
+| Practical Mobile Pentest Associate (PMPA) | TCM Security | USD$249 | Certification Obtained (2024) | Easy | The best, cheap mobile cert I could find. Course definintely needs and update. |
 | Github Advanced Security (GHAS) | Github | USD$99 | Certification Obtained (2024) | Easy | Rote learning of Microsoft documentation. |
 | Beginners Guide to IoT and Hardware Hacking (PIPA) | TCM Security | USD$249 | Course Complete, Will not sit Cert | Easy | Pretty much a perfect course :) |
 | Practical Web Pentest Professional (PWPP) | TCM Security | USD$499 | In Progress, Will not sit Cert | Medium | I'd consider doing this cert as a stepping stone to the Burp Certification, as they share content but Burp goes WAY deeper. TCMs exams seem decent, so there's a solid chance of passing on your first or second attempt. |
