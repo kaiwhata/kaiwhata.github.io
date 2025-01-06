@@ -5,6 +5,13 @@ layout: default
 # Certifications
 After jumping over from penetration testing to cloud blue team work in 2024, I was a little concerned that my pentest skills would atrophy. So I decided to do some of the certs and training that I had been putting off for years and now, 6 months later, I have a whole bunch of new certs. I've realised that online cybersecurity training is still very much the wild west, with MASSIVE disparities and price and quality between different providers - so I decided to write up my experiences so far, to serve as some guidance for anyone else in a similar position. This is gonne get pretty detailed - so if you're looking for a better general guide on how to get into pentesting in NZ, I would recommend instead reading [Bogan's excellent guide](https://www.linkedin.com/pulse/getting-started-penetration-tester-nz-2024-edition-simon-howard-ijntc/) which he keeps updated each year. 
 
+## Purpose
+The certs/coruse below are a mix of a bunch of stuff, cause I'm trying to achieve multiple different things with them:
+1. Certs to get your foot in the door for an interview (The Microsoft and Offsec certs seem decent at this)
+2. Certs/Courses that improve or refresh your knowledge and mastery of a topic (Burp, PWPP)
+3. Certs/Courses that help you position my 'niche' in the market (AZ-500, CARTP, CARTE)
+4. Certs/Courses that help build knowledge breadth, which improves maturity in risk assessments (PIPA, PMPA, AZ-500)
+
 Here's the full list of certs/training that I have attempted or am attempting, their prices (as of time of writing in Jan 2025), and some comments about their quality and cost effectiveness. Note that I'm pretty heavily weighting cost here, as I'm self funding a lot of these so I just can't afford Offsec prices, and I'm comparing only prices for certifications that include training content.
 
 | Certification | Provider | Cost | My Progress | Difficulty | Comments |
